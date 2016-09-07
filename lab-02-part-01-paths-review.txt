@@ -246,6 +246,6 @@ Daytonas-MacBook-Pro:my-stuff starsky$ mkdir current
 Daytonas-MacBook-Pro:my-stuff starsky$ ls
 archived	current
 Daytonas-MacBook-Pro:my-stuff starsky$ mkdir Daytonas-MacBook-Pro
-Daytonas-MacBook-Pro:my-stuff starsky$ ls
+Daytonas-MacBook-Pro:my-stuff starsky$ ls -l
 Daytonas-MacBook-Pro	archived		current
 Daytonas-MacBook-Pro:my-stuff starsky$ rmdir Daytonas-MacBook-Pro/
